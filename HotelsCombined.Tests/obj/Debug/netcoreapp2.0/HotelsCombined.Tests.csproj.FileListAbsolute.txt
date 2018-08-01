@@ -1,0 +1,11 @@
+C:\Drive\OneDrive\Tests\hotelscombined\hotels-combined\WebCodingTest v4\WebCodingTest\HotelsCombined.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Drive\OneDrive\Tests\hotelscombined\hotels-combined\WebCodingTest v4\WebCodingTest\HotelsCombined.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Drive\OneDrive\Tests\hotelscombined\hotels-combined\WebCodingTest v4\WebCodingTest\HotelsCombined.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Drive\OneDrive\Tests\hotelscombined\hotels-combined\WebCodingTest v4\WebCodingTest\HotelsCombined.Tests\bin\Debug\netcoreapp2.0\HotelsCombined.Tests.deps.json
+C:\Drive\OneDrive\Tests\hotelscombined\hotels-combined\WebCodingTest v4\WebCodingTest\HotelsCombined.Tests\bin\Debug\netcoreapp2.0\HotelsCombined.Tests.runtimeconfig.json
+C:\Drive\OneDrive\Tests\hotelscombined\hotels-combined\WebCodingTest v4\WebCodingTest\HotelsCombined.Tests\bin\Debug\netcoreapp2.0\HotelsCombined.Tests.runtimeconfig.dev.json
+C:\Drive\OneDrive\Tests\hotelscombined\hotels-combined\WebCodingTest v4\WebCodingTest\HotelsCombined.Tests\bin\Debug\netcoreapp2.0\HotelsCombined.Tests.dll
+C:\Drive\OneDrive\Tests\hotelscombined\hotels-combined\WebCodingTest v4\WebCodingTest\HotelsCombined.Tests\obj\Debug\netcoreapp2.0\HotelsCombined.Tests.csprojAssemblyReference.cache
+C:\Drive\OneDrive\Tests\hotelscombined\hotels-combined\WebCodingTest v4\WebCodingTest\HotelsCombined.Tests\obj\Debug\netcoreapp2.0\HotelsCombined.Tests.csproj.CoreCompileInputs.cache
+C:\Drive\OneDrive\Tests\hotelscombined\hotels-combined\WebCodingTest v4\WebCodingTest\HotelsCombined.Tests\obj\Debug\netcoreapp2.0\HotelsCombined.Tests.AssemblyInfoInputs.cache
+C:\Drive\OneDrive\Tests\hotelscombined\hotels-combined\WebCodingTest v4\WebCodingTest\HotelsCombined.Tests\obj\Debug\netcoreapp2.0\HotelsCombined.Tests.AssemblyInfo.cs
